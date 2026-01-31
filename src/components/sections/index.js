@@ -1,0 +1,11 @@
+export { default as Hero } from './Hero';
+export { default as TrustBar } from './TrustBar';
+export { default as TrustStrip } from './TrustStrip';
+export { default as PMSuryaGharSection } from './PMSuryaGharSection';
+export { default as BentoGrid } from './BentoGrid';
+export { default as SolutionsSection } from './SolutionsSection';
+export { default as SolarSection } from './SolarSection';
+export { default as SolarCalculator } from './SolarCalculator';
+export { default as BatterySection } from './BatterySection';
+export { default as InvertersSection } from './InvertersSection';
+export { default as AboutUs } from './AboutUs';
