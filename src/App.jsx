@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import { Navbar, Footer, WhatsAppButton } from '@components/layout';
 import {
   Hero,
@@ -39,6 +40,9 @@ const App = () => {
 
       {/* Floating WhatsApp Button */}
       <WhatsAppButton />
+
+      {/* Vercel Analytics */}
+      <Analytics />
     </div>
   );
 };
